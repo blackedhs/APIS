@@ -56,11 +56,9 @@ namespace FormEnvioMails
             {
                 try
                 {
-
                     Dato dato = new Dato(txtCuenta.Text, txtClave.Text, txtAsunto.Text, txtCuerpo.Text, null);
-                    Proceso proceso = new Proceso();
-                    if(proceso.Iniciar(dato))
-                        MessageBox.Show("Mails enviados exitosamente!");
+
+                    ProcesoPrincipal.Instancia.Comenzar(dato);
                 }
                 catch (Exception ex)
                 {

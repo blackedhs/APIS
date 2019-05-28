@@ -45,9 +45,9 @@
             // txtCuenta
             // 
             this.txtCuenta.Location = new System.Drawing.Point(84, 11);
-            this.txtCuenta.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtCuenta.Margin = new System.Windows.Forms.Padding(2);
             this.txtCuenta.Name = "txtCuenta";
-            this.txtCuenta.Size = new System.Drawing.Size(157, 20);
+            this.txtCuenta.Size = new System.Drawing.Size(277, 20);
             this.txtCuenta.TabIndex = 0;
             // 
             // label1
@@ -73,9 +73,9 @@
             // txtClave
             // 
             this.txtClave.Location = new System.Drawing.Point(84, 50);
-            this.txtClave.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtClave.Margin = new System.Windows.Forms.Padding(2);
             this.txtClave.Name = "txtClave";
-            this.txtClave.Size = new System.Drawing.Size(157, 20);
+            this.txtClave.Size = new System.Drawing.Size(277, 20);
             this.txtClave.TabIndex = 2;
             // 
             // label3
@@ -91,15 +91,15 @@
             // txtAsunto
             // 
             this.txtAsunto.Location = new System.Drawing.Point(84, 92);
-            this.txtAsunto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAsunto.Margin = new System.Windows.Forms.Padding(2);
             this.txtAsunto.Name = "txtAsunto";
-            this.txtAsunto.Size = new System.Drawing.Size(157, 20);
+            this.txtAsunto.Size = new System.Drawing.Size(277, 20);
             this.txtAsunto.TabIndex = 4;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(10, 141);
+            this.label4.Location = new System.Drawing.Point(9, 131);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(48, 13);
@@ -108,17 +108,17 @@
             // 
             // txtCuerpo
             // 
-            this.txtCuerpo.Location = new System.Drawing.Point(12, 166);
-            this.txtCuerpo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtCuerpo.Location = new System.Drawing.Point(12, 151);
+            this.txtCuerpo.Margin = new System.Windows.Forms.Padding(2);
             this.txtCuerpo.Name = "txtCuerpo";
-            this.txtCuerpo.Size = new System.Drawing.Size(346, 135);
+            this.txtCuerpo.Size = new System.Drawing.Size(346, 144);
             this.txtCuerpo.TabIndex = 8;
             this.txtCuerpo.Text = "";
             // 
             // btnEnviar
             // 
-            this.btnEnviar.Location = new System.Drawing.Point(276, 327);
-            this.btnEnviar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnEnviar.Location = new System.Drawing.Point(280, 328);
+            this.btnEnviar.Margin = new System.Windows.Forms.Padding(2);
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(81, 26);
             this.btnEnviar.TabIndex = 9;
@@ -128,8 +128,8 @@
             // 
             // btnAdjunto
             // 
-            this.btnAdjunto.Location = new System.Drawing.Point(12, 305);
-            this.btnAdjunto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnAdjunto.Location = new System.Drawing.Point(11, 299);
+            this.btnAdjunto.Margin = new System.Windows.Forms.Padding(2);
             this.btnAdjunto.Name = "btnAdjunto";
             this.btnAdjunto.Size = new System.Drawing.Size(56, 19);
             this.btnAdjunto.TabIndex = 10;
@@ -157,7 +157,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtCuenta);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(388, 404);
             this.MinimumSize = new System.Drawing.Size(388, 404);
