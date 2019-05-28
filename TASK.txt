@@ -1,0 +1,7 @@
+- Establecer formato a un archivo de mails, de modo que se puedan levantar los datos de ahi
+
+- Armar Archivo "lista negra" de mails "basura"
+
+- Investigar sobre "lista negra" de mails
+
+- Investigar validaciones de google para el ingreso a la app (API de google)

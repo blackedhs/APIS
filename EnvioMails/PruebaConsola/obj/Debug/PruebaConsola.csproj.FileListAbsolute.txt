@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\bin\Debug\PruebaConsola.exe
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\bin\Debug\PruebaConsola.pdb
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\bin\Debug\EnvioMails.dll
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\bin\Debug\EnvioMails.pdb
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.exe
+C:\Users\usuario\Desktop\Mail\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.pdb
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\bin\Debug\PruebaConsola.exe
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\bin\Debug\PruebaConsola.pdb
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\bin\Debug\EnvioMails.dll
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\bin\Debug\EnvioMails.pdb
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.csprojResolveAssemblyReference.cache
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.exe
+D:\Users\rbravo\Escritorio\NewProject\EnvioMails\PruebaConsola\obj\Debug\PruebaConsola.pdb
