@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<system.net>
+  <mailSettings>
+    <smtp from="ngotuongdan@gmail.com">
+      <network host="smtp.gmail.com"
+ password="your mail password" port="587" userName="your user" />
+    </smtp>
+  </mailSettings>
+</system.net>

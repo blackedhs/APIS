@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Entidades\obj\Debug\Entidades.pdb

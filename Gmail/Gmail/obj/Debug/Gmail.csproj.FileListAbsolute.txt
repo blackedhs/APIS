@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\bin\Debug\Gmail.exe.config
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\bin\Debug\Gmail.exe
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\bin\Debug\Gmail.pdb
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\bin\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.FrmSender.resources
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.Properties.Resources.resources
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.csproj.CopyComplete
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.exe
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.pdb
+C:\Users\Usuario\Documents\Programacion\Mi_Gmail\Gmail\Gmail\obj\Debug\Gmail.FrmAgregar.resources
